@@ -1,6 +1,6 @@
 # Réaliser un trombinoscope
 
-## 1 - énnoncé
+## 1 - énoncé
 
 Réaliser l'application web permettant d'ajouter un personnage et d'afficher un trombinoscope.
 
@@ -25,7 +25,7 @@ Quelques principes :
 
 ## 2 - Manuel d'installation
 
-A partir d'une machine virtuelle Linux dsiposant déjà de apache2 avec PHP et MySQL déjà installés.
+A partir d'une machine virtuelle Linux disposant déjà de apache2 avec PHP et MySQL déjà installés.
 
 Donner la procédure d'installation complète (install.md) de votre application livrée dans un repository github.
 
